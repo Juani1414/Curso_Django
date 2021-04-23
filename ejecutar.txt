@@ -2,4 +2,3 @@ cp -r '/home/juanita/Documentos/ProyectosDjango/Tiendaonline' '/home/juanita/Doc
 git add *
 git commit -m "Proyecto Django"
 git push -u origin main
-Juani1414
